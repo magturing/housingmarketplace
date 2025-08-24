@@ -1,7 +1,7 @@
 // SPDX-License-Identifier:MIT
-pragma solidity ^0.8.8;
+pragma solidity 0.8.28;
 
-import {Magturing} from "./Magturing.sol";
+import {Magturing} from "../ERC20/Magturing.sol";
 
 
 contract Housing{
